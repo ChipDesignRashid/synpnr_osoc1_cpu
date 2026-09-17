@@ -6,3 +6,7 @@ yosys -l syn.log
 
 
 [nix-shell:~/vlsi_projects/osoc1/work]$ openroad
+
+
+
+https://github.com/ChipDesignRashid/synpnr_osoc1_cpu
